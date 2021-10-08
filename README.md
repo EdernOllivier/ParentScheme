@@ -19,4 +19,3 @@ To plot do gnuplot> plot "text.txt"
 
 > gnuplot
 > 
-gnuplot> plot "text.txt"
