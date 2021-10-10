@@ -4,7 +4,7 @@ This is the values in a map of the Parent's numerical scheme of the linearized o
 
 SETUP :
 
-I have taken the Ubuntu 20.04.3 LTS distribution with the USB key after getting the Windows 10 by ASUS on a G6400 from the Intel compagny.
+I have taken the Ubuntu 20.04.3 LTS distribution with the USB key after getting the Windows 10 by ASUS on a G6400 processor's chip from the Intel compagny.
 
 To compile do gcc -o test2 test2.c -lm with glibc,
 
