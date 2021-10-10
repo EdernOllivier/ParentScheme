@@ -6,6 +6,8 @@ SETUP :
 
 I have taken the Ubuntu 20.04.3 LTS distribution with the USB key after getting the Windows 10 by ASUS on a G6400 processor's chip from the Intel compagny.
 
+This is the S300MA-0G6400002T - Intel Pentium G6400 - RAM 8 Go - Stockage SSD 512 Go - Windows 10, ... to compute and simulate with Scilab.
+
 To compile do gcc -o test2 test2.c -lm with glibc,
 
 > mkdir glibc-build
