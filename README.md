@@ -8,6 +8,8 @@ I have taken the Ubuntu 20.04.3 LTS distribution with the USB key after getting 
 
 This is the S300MA-0G6400002T - Intel Pentium G6400 - RAM 8 Go - Stockage SSD 512 Go - Windows 10 with the keyboard and the mouse to compute and simulate with Scilab.
 
+I have tested the scheme with the Ubuntu distribution.
+
 To compile do gcc -o test2 test2.c -lm with glibc,
 
 > mkdir glibc-build
