@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Simulation
 This is to show how to do applied maths with the linear operator.
 
-## Validation
+# Validation
 I wish to implement the algorithm in the cars. Everything can be automated once the rules have been designed.
 
-### Explanation
+# Explanation
 The explanations can be found here :  https://hal.archives-ouvertes.fr/hal-03335352.
 
 [Link](https://www.maintenance-elec.fr) and ![Image](https://github.com/EdernOllivier/ParentScheme/blob/04bb47d1483e4da5bc62c2ad018470cbf40546b4/Capture%20d%E2%80%99%C3%A9cran%20de%202021-10-08%2012-33-49.png)
