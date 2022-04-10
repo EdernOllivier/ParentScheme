@@ -1,25 +1,16 @@
 ## Welcome to GitHub Pages
-
 You can use the [editor on GitHub](https://github.com/EdernOllivier/ParentScheme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Simulation
+This is to show how to do applied maths with the linear operator.
+
 ## Validation
+I wish to implement the algorithm in the cars.
+
 ### Explanation
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+The explanations can be found here :  https://hal.archives-ouvertes.fr/hal-03335352.
 
 **Bold** and _Italic_ and `Code` text
 
