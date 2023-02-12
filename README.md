@@ -12,17 +12,8 @@ I have tested the Parent's scheme on the Ubuntu distribution with the ollivier-H
 
 To compile do gcc -o test2 test2.c -lm with glibc,
 
-> mkdir glibc-build
+> ./glibc/configure
 > 
-> cd glibc-build/
-> 
-> ~/glibc/configure
-> 
-> cd ..
-> 
-> cd glibc
-> 
-> make install
 
 To plot do gnuplot> plot "text.txt"
 
